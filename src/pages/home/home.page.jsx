@@ -11,7 +11,7 @@ const Home = () => {
           CodeCharley&nbsp;
         </Link>
         | Consultant | Security Specialist(Anti-Virus, Firewall) | Listner to
-        Feedspost | Dota2 Fan (Archen)
+        Feedspost | Dota2 Fan (MMR Archen)
       </HomeBody>
     </HomeContainer>
   );

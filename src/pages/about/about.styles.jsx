@@ -22,3 +22,8 @@ export const AboutBody = styled.p`
   width: 50vw;
   margin-bottom: 30px;
 `;
+
+export const Link = styled.a`
+  color: ${({ theme }) => theme.color.primary};
+  text-decoration: none;
+`;
