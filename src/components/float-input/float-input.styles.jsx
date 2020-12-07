@@ -15,6 +15,7 @@ const inputStyle = css`
   font-family: ${({ theme }) => theme.font.fontFamily};
   display: block;
   width: 100%;
+  color: white;
 
   &,
   &::after,

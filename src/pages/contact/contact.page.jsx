@@ -35,7 +35,7 @@ const Contact = () => (
       </ContactForm>
       <ContactInfo>
         <InfoTitle>Phone:</InfoTitle>
-        <InfoBody>+1 (718) 577 2705</InfoBody>
+        <InfoBody>(718)-577-2705</InfoBody>
         <InfoTitle>Email:</InfoTitle>
         <InfoBody>Michael.Benares2020@gmail.com</InfoBody>
         <InfoTitle>Follow Me!</InfoTitle>
