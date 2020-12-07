@@ -13,7 +13,10 @@ const Header = () => {
           <RouteLink to="/about">About</RouteLink>
         </RouteItem>
         <RouteItem>
-          <RouteLink to="/work">Work</RouteLink>
+          <RouteLink to="/projects">Work</RouteLink>
+        </RouteItem>
+        <RouteItem>
+          <RouteLink to="/skills">Skills</RouteLink>
         </RouteItem>
         <RouteItem>
           <RouteLink to="/contact">Contact</RouteLink>
