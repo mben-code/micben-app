@@ -16,7 +16,7 @@ import {
 
 const Contact = () => (
   <ContactContainer>
-    <ContactTitle>Feel Free To Contact!</ContactTitle>
+    <ContactTitle>Happy to have connection with!</ContactTitle>
     <ContactBody>
       <ContactForm>
         <div style={{ display: 'flex' }}>
